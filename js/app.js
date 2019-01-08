@@ -2,7 +2,7 @@
 
 let url = window.location.href;
 
-let swLocation = '//sw.js';
+let swLocation = '/Practiva7PWA/sw.js';
 
 if(navigator.serviceWorker){
    
